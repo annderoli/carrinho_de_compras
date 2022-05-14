@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "carrinho_de_compras",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anndersonolive/carrinho_de_compras.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anndersonolive/carrinho_de_compras/issues"
+  },
+  "homepage": "https://github.com/anndersonolive/carrinho_de_compras#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  }
+}
